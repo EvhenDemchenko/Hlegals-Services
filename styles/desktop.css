@@ -389,3 +389,13 @@ svg {
 .rigth-side {
   color: #b3b3ba;
 }
+
+.burger-menu {
+  display: none;
+}
+.close {
+  display: none;
+}
+.open {
+  display: block;
+}
